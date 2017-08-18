@@ -1,0 +1,10 @@
+# lote tempo_chegada (linha_chegada) delta_tempo (ou comprimento) origem destino
+L1 0 10 L00 VFF
+L2 10 10 L00 VMF
+L3 20 10 L00 VFM
+L4 40 10 L00 VFM
+L5 50 10 L00 VFF
+L6 60 10 L00 VMF
+L7 80 10 L00 VFF
+L8 90 10 L00 VFF
+L9 100 10 L00 VFF

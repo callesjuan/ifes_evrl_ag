@@ -1,0 +1,2 @@
+python gadopatio.py --layout entradas/wlayout --linhas entradas/linhas --demanda entradas/demanda --bloqueios entradas/bloqueios
+python gadopatio.py --layout entradas2/wlayout --linhas entradas2/linhas --demanda entradas2/demanda --bloqueios entradas2/bloqueios
